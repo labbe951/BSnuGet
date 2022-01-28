@@ -1,9 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Version>1.0.0</Version>
+		<AssemblyVersion>1.0.0</AssemblyVersion>
+		<Authors>Pontus Haglund</Authors>
+		<Company>Labbe AB</Company>
+		<Description>This nuget adds convert options for kilograms, pounds and stone</Description>
+		<RepositoryUrl>https://github.com/labbe951/BSnuGet</RepositoryUrl>
+		<PackageTags>Converter; Kilogram; Stone; Pounds;</PackageTags>
+	</PropertyGroup>
 
 </Project>
