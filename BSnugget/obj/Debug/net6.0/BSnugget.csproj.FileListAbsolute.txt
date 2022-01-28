@@ -1,0 +1,12 @@
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\bin\Debug\net6.0\BSnugget.deps.json
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\bin\Debug\net6.0\BSnugget.dll
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\bin\Debug\net6.0\ref\BSnugget.dll
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\bin\Debug\net6.0\BSnugget.pdb
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.csproj.AssemblyReference.cache
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.AssemblyInfoInputs.cache
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.AssemblyInfo.cs
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.csproj.CoreCompileInputs.cache
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.dll
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\ref\BSnugget.dll
+C:\Users\Pontus\source\repos\BSnugget\BSnugget\obj\Debug\net6.0\BSnugget.pdb
